@@ -8,8 +8,8 @@ Redoing the Kotlin part in Java was simple since it used the same concepts but u
 ## Screenshots
 <b>No inputs</b>
 <br>
-<img src="https://github.com/Wavedoo/Basic-App-Test-Kotlin/blob/master/screenshots/noinputs.jpg" height=600>
+<img src="https://github.com/Wavedoo/Basic-App-Test-Java/tree/master/screenshots/noinputs.jpg" height=600>
 <br>
 <b>All inputs</b>
 <br>
-<img src="https://github.com/Wavedoo/Basic-App-Test-Kotlin/blob/master/screenshots/allinputs.jpg" height=600>
+<img src="https://github.com/Wavedoo/Basic-App-Test-Java/tree/master/screenshots/allinputs.jpg" height=600>
