@@ -1,8 +1,14 @@
 <resources>
-    <string name="app_name">JavaBasicAppTest</string>
+    <string name="app_name">Java App Test</string>
     <string name="grade_text">Enter grade (%)</string>
-    <string name="title">Grade Calculator</string>
+    <string name="grade_calculator">Grade Calculator</string>
     <string name="weight_text">Enter weight (out of 100)</string>
     <string name="calculate">Calculate</string>
     <string name="result">It is worth %.1f of your final grade</string>
+    <string name="oops">Calculator?</string>
+    <string name="oops_text">Looks like I gave up on the calculator thing. So just go to another activity.</string>
+    <string name="oops_2">Oops #2 I wanted to add a meme about android, but looks like I didn\'t import the drawable properly</string>
+    <string name="todo">TODO: Fix that</string>
+    <string name="prank_1">Click if you want me to finish the calculator activity! This button notifies me!</string>
+    <string name="prank_2">Haha get pranked! This app doesn\'t even connect to the Internet! This is just here so I can try out ScrollView</string>
 </resources>

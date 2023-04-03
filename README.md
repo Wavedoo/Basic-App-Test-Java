@@ -1,5 +1,8 @@
 # Basic-App-Test-Java
 
+So I've been using this as testing grounds for android dev, and I <i>should</i> update the readme, but I am hungry and want to eat. Maybe later if I remember or have time.
+
+# Old Readme
 Using Java and xml I made a basic app used to calculate how much a grade is worth overall based on its weight.
 
 ## The process
