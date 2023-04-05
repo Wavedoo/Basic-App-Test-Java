@@ -21,7 +21,7 @@ Learning outcome:<br>
 ### Screenshot
 <img src="https://github.com/Wavedoo/Basic-App-Test-Java/blob/master/screenshots/mainactivity.jpg" height=500>
 
-[Back to activities](https://github.com/Wavedoo/Basic-App-Test-Java/blob/master/README.md#activitites)
+[Back to activities](https://github.com/Wavedoo/Basic-App-Test-Java#readme)
 
 ## Grade Calculator
 The original activity was just this, and the original Readme is shown here. <br>
@@ -39,7 +39,7 @@ Redoing the Kotlin part in Java was simple since it used the same concepts but u
 <br>
 <img src="https://github.com/Wavedoo/Basic-App-Test-Java/blob/master/screenshots/allinputs.jpg" height=500>
 
-[Back to activities](https://github.com/Wavedoo/Basic-App-Test-Java/blob/master/README.md#activitites)
+[Back to activities](https://github.com/Wavedoo/Basic-App-Test-Java#readme)
 
 ## Oops Activity
 An activity that was originally meant to be a calculator, but I ended up being too lazy to complete it ans just left it as a mismash of various little things<br>
@@ -53,4 +53,4 @@ Issue to overcome:<br>
 ### Screenshot
 <img src="https://github.com/Wavedoo/Basic-App-Test-Java/blob/master/screenshots/oopsactivity.jpg" height=500>
 
-[Back to activities](https://github.com/Wavedoo/Basic-App-Test-Java/blob/master/README.md#activitites)
+[Back to activities](https://github.com/Wavedoo/Basic-App-Test-Java#readme)
