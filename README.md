@@ -8,9 +8,9 @@ This is a repo I've been using as testing grounds for android development consis
 -How to save strings to an xml file and use it in the app
 
 ### Activitites
-[Main activity](https://github.com/Wavedoo/Basic-App-Test-Java/blob/master/README.md#main-activityy)<br>
-[Grade calculator](https://github.com/Wavedoo/Basic-App-Test-Java/blob/master/README.md#grade-calculator)<br>
-[Oops](https://github.com/Wavedoo/Basic-App-Test-Java/blob/master/README.md#oops-activity)
+[Main activity](https://github.com/Wavedoo/Basic-App-Test-Java#main-activity)<br>
+[Grade calculator](https://github.com/Wavedoo/Basic-App-Test-Java#grade-calculator)<br>
+[Oops](https://github.com/Wavedoo/Basic-App-Test-Java#oops-activity)
 
 ## Main Activity
 This is the main activity where you can navigate to the other activities within the app.<br>
